@@ -2,7 +2,7 @@
   "name": "stream-consecutive",
   "version": "0.0.0",
   "description": "Emit sorted stream chunks, buffering the quick ones and discarding the ones that lost the train",
-  "main": "index.js",
+  "main": "lib",
   "scripts": {
     "test": "jest --notify --coverage"
   },
