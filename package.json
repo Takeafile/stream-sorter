@@ -1,5 +1,5 @@
 {
-  "name": "stream-consecutive",
+  "name": "stream-sorter",
   "version": "0.0.0",
   "description": "Emit sorted stream chunks, buffering the quick ones and discarding the ones that lost the train",
   "main": "lib",
@@ -8,19 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/piranna/stream-consecutive.git"
+    "url": "git+ssh://git@bitbucket.org/piranna/stream-sorter.git"
   },
   "keywords": [
     "stream",
     "consecutive",
     "sort",
     "sorted",
+    "sorter",
+    "latest",
     "index",
     "discard"
   ],
   "author": "Jesús Leganés-Combarro 'piranna' <piranna@gmail.com>",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/piranna/stream-consecutive#readme",
+  "homepage": "https://bitbucket.org/piranna/stream-sorter#readme",
   "dependencies": {
     "jest": "^23.4.0"
   }
