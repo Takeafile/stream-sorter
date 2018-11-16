@@ -4,6 +4,7 @@
   "description": "Emit sorted stream chunks, buffering the quick ones and discarding the ones that lost the train",
   "main": "lib",
   "scripts": {
+    "coverage": "npm test -- --coverageReporters=text-lcov | coveralls",
     "test": "jest --notify --coverage"
   },
   "repository": {
@@ -23,7 +24,8 @@
   "author": "Jesús Leganés-Combarro 'piranna' <piranna@gmail.com>",
   "license": "ISC",
   "homepage": "https://github.com/Takeafile/stream-sorter#readme",
-  "dependencies": {
+  "devDependencies": {
+    "coveralls": "^3.0.2",
     "jest": "^23.6.0"
   }
 }
