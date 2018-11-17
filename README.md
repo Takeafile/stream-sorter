@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/Takeafile/stream-sorter.svg?branch=master)](https://travis-ci.org/Takeafile/stream-sorter)
 [![Coverage Status](https://coveralls.io/repos/github/Takeafile/stream-sorter/badge.svg?branch=master)](https://coveralls.io/github/Takeafile/stream-sorter?branch=master)
+[![Greenkeeper badge](https://badges.greenkeeper.io/Takeafile/stream-sorter.svg)](https://greenkeeper.io/)
 
 # stream-sorter
 
