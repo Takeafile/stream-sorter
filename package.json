@@ -1,5 +1,5 @@
 {
-  "name": "stream-sorter",
+  "name": "@transfast/stream-sorter",
   "version": "0.0.0",
   "description": "Emit sorted stream chunks, buffering the quick ones and discarding the ones that lost the train",
   "main": "lib",
